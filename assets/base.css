@@ -1,3 +1,9 @@
+/* Custom fonts */
+@font-face {
+  font-family: 'P22MackinacPro';
+  src: url('P22MackinacPro-Book_25.otf') format("opentype");
+}
+
 /* Color custom properties */
 
 :root,
